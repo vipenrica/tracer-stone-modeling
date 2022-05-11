@@ -7,6 +7,6 @@ Here you can find
 3) the model used for the application on the Buech River, France
 4) data of the Wong et al. (2007) laboratory experiments. The data should also be stored on the data repository of the
    National Center for Earth Surface Dyanmics at the University of Mimnnesota, Minneapolis. Courtesy of Miguel Wong. 
-6) comparison between model simulations and Wong et al. data 
+6) comparison between model simulations and Wong et al. (2007) data, Lab_validation.zip
 7) data on tracer stone dispersal collected on the Buech River compiled by Daniel Vazquez-Tarrio. Courtesy of Guillaume Brousse. 
 
